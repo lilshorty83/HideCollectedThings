@@ -1,0 +1,14 @@
+## Interface: 100007
+## Title: Hide Collected Things
+## Notes: Hides collected things that you have already collected from the vendor window.
+## Author: Lil_Shorty
+## Version: 1.2.0
+## SavedVariables: HideCollectedThingsDB
+
+HideCollectedThings.lua
+mounts.lua
+pets.lua
+toys.lua
+cosmetics.lua
+ensembles.lua
+button.lua
